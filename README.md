@@ -1,6 +1,6 @@
 # gof_blog
 
-A new Flutter application.
+Flutter blog application.
 
 ## Getting Started
 
