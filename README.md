@@ -1,6 +1,6 @@
 # gof_blog
 
-Flutter blog application.
+Flutter mobile blog app.
 
 ## Getting Started
 
